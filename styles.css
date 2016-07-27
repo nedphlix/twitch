@@ -1,0 +1,39 @@
+.wrapper {
+	display: flex;
+	height: 100px;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	margin-bottom: 5px;
+}
+
+.default {
+	background-color: #e5e5e5;
+}
+
+.online {
+	background-color: #7ab5d6;
+}
+
+.no-account {
+	background-color: #999595;
+}
+
+.content {
+	text-align: left;
+	position: absolute;
+	left: 200px;
+	line-height: 100px;
+}
+
+a {
+	color: #000;
+	margin-right: 50px;
+}
+
+
+h1 {
+	font-size: 40px;
+	width: 100%;
+	text-align: center;
+}
